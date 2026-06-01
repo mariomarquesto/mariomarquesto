@@ -1,8 +1,9 @@
 🚀 Marquesto Mario Aníbal Francisco  
-💻 Full Stack Developer | React ⚛️ · .NET ⚙️ · Node.js 🌱
+💻 Full Stack Developer | IA 🤖 · React ⚛️ · .NET ⚙️ · Node.js 🌱
 
 Soy un desarrollador full stack apasionado por crear soluciones escalables, interfaces modernas y sistemas robustos.  
-Me especializo en el desarrollo web con tecnologías Frontend y Backend, priorizando buenas prácticas, rendimiento y arquitectura limpia.
+Me especializo en el desarrollo web con tecnologías Frontend y Backend, priorizando buenas prácticas, rendimiento y arquitectura limpia.  
+Además, integro **Inteligencia Artificial** en aplicaciones reales usando OpenAI, LangChain y RAG para potenciar la automatización y la experiencia de usuario.
 
 ---
 
@@ -21,6 +22,13 @@ Me especializo en el desarrollo web con tecnologías Frontend y Backend, prioriz
 - TailwindCSS · Bootstrap · Sass
 - Figma (UI/UX Design)
 
+### 🧠 Inteligencia Artificial
+
+- OpenAI API · GPT-4 · LangChain
+- RAG (Retrieval-Augmented Generation)
+- Embeddings · Fine-tuning
+- Chatbots inteligentes · Automatización con IA
+
 ### 🧩 Herramientas
 
 - Git & GitHub
@@ -34,7 +42,8 @@ Me especializo en el desarrollo web con tecnologías Frontend y Backend, prioriz
 ### 🏗️ Actualmente
 
 🚧 Trabajando en proyectos de arquitectura escalable con React + NestJS + PostgreSQL  
-📚 Aprendiendo más sobre Clean Architecture y despliegue en la nube (AWS / Azure)
+📚 Aprendiendo más sobre Clean Architecture y despliegue en la nube (AWS / Azure)  
+🤖 Integrando IA en aplicaciones web para automatización y análisis predictivo
 
 ---
 
