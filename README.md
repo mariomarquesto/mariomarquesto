@@ -1,54 +1,55 @@
-🚀 Marquesto Mario Aníbal Francisco  
-💻 Full Stack Developer | IA 🤖 · React ⚛️ · .NET ⚙️ · Node.js 🌱
+# 🚀 Mario Aníbal Francisco Marquestó
+### AI Integration Specialist & Full Stack Tech Lead (.NET | Node | React | Databases)
 
-Soy un desarrollador full stack apasionado por crear soluciones escalables, interfaces modernas y sistemas robustos.  
-Me especializo en el desarrollo web con tecnologías Frontend y Backend, priorizando buenas prácticas, rendimiento y arquitectura limpia.  
-Además, integro **Inteligencia Artificial** en aplicaciones reales usando OpenAI, LangChain y RAG para potenciar la automatización y la experiencia de usuario.
+> *Ingeniero en Sistemas con una perspectiva 360°: escribo código que impulsa el negocio, traduciendo requerimientos comerciales complejos en soluciones tecnológicas de alto rendimiento.*
 
 ---
 
-### ⚙️ Backend & Infra
+## 💡 Sobre mí
 
-- .NET Core / ASP.NET
-- Node.js / Express.js
-- PostgreSQL / MySQL / MongoDB
-- REST APIs · Microservicios · Auth0 · JWT
-- Docker · Nginx
+Soy Ingeniero en Sistemas (UTN) con un perfil poco tradicional que combina una sólida base técnica en desarrollo de software con más de 15 años de experiencia en consultoría y estrategia comercial. 
+
+* 🎯 **Enfoque:** Conecto la ingeniería avanzada con las necesidades reales del negocio para escalar proyectos con eficiencia.
+* 🤖 **Innovación:** Especializado en integrar Inteligencia Artificial (OpenAI, RAG, n8n) y flujos hiperautomatizados en aplicaciones reales.
+* 🌐 **Especialización Sectorial:** Trayectoria y soluciones orientadas a nichos exigentes como **LegalTech, TaxTech y AgTech**.
+
+---
+
+## 🛠️ Stack Tecnológico & Habilidades
+
+### ⚙️ Backend & Arquitectura
+* **Lenguajes & Frameworks:** .NET Core, C#, Node.js, Express.js
+* **Bases de Datos:** PostgreSQL, MSSQL, MySQL, MongoDB
+* **APIs & Seguridad:** RESTful APIs, Microservicios, JWT, RBAC, Auth0
+* **DevOps & Infra:** Docker, Nginx, CI/CD, Entornos Cloud (Azure / AWS)
 
 ### 🎨 Frontend
+* **Core:** React, Next.js, Redux, Angular
+* **Mobile & Styling:** React Native, TailwindCSS, Bootstrap, Sass
+* **UI/UX:** Figma (Diseño centrado en el usuario)
 
-- React · Next.js · Redux
-- React Native (Mobile)
-- TailwindCSS · Bootstrap · Sass
-- Figma (UI/UX Design)
+### 🧠 Inteligencia Artificial & Automatización
+* **IA Generativa:** OpenAI API, GPT-4, LangChain, Embeddings
+* **Arquitecturas:** RAG (Retrieval-Augmented Generation), Fine-tuning, Búsqueda semántica
+* **Automatización:** Asistentes inteligentes, flujos hiperautomatizados con **n8n**
 
-### 🧠 Inteligencia Artificial
-
-- OpenAI API · GPT-4 · LangChain
-- RAG (Retrieval-Augmented Generation)
-- Embeddings · Fine-tuning
-- Chatbots inteligentes · Automatización con IA
-
-### 🧩 Herramientas
-
-- Git & GitHub
-- Postman
-- Firebase
-- Bash scripting
-- Vite · Webpack
+### 🧩 Herramientas & Metodologías
+* **Control de versiones:** Git & GitHub
+* **Testing & APIs:** Postman
+* **Gestión:** Metodologías Ágiles (Scrum), Consultoría Tecnológica
 
 ---
 
-### 🏗️ Actualmente
+## 🏗️ Actualidad
 
-🚧 Trabajando en proyectos de arquitectura escalable con React + NestJS + PostgreSQL  
-📚 Aprendiendo más sobre Clean Architecture y despliegue en la nube (AWS / Azure)  
-🤖 Integrando IA en aplicaciones web para automatización y análisis predictivo
+* 🚧 **Desarrollo:** Creación y arquitectura de soluciones escalables integrando .NET, Node, React y bases de datos robustas.
+* 🤖 **IA & Automatización:** Despliegue de flujos inteligentes con n8n y modelos de lenguaje para optimizar procesos operativos y de negocio.
+* 📚 **Evolución continua:** Profundizando en Clean Architecture y patrones avanzados para entornos de alta exigencia.
 
 ---
 
-### 📫 Conectá conmigo
+## 📫 Conectá conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marquesto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-marquesto)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/mariomarquesto)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marquestomario@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/marquesto)
